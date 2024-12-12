@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanmishra9800
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web development using Javascript and Python
+- 🌱 I currently works as Test Analyst 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amanmishra9800@gmail.com
 
